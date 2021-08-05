@@ -1,2 +1,2 @@
 # Revive-Adserver
-Docker image Revive Adserver 5
+Docker image Revive Adserver 5.2
