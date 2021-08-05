@@ -10,7 +10,7 @@ Docker image Revive Adserver 5.2
 
 <p>Complete with the following MySQL configuration:</p>
 <ul>
-  <li>host: <b>mysql</b></li>
+  <li>host: <b>db</b></li>
   <li>database name <b>revive</b></li> 
   <li>mysql username: <b>user</b></li>
   <li>mysql password: <b>12345678</b></li>
