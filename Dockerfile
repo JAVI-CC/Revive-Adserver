@@ -39,7 +39,7 @@ RUN wget -qO- https://download.revive-adserver.com/revive-adserver-5.2.1.tar.gz 
     && chown -R nobody:nobody . \
     && rm -rf /var/cache/apk/*
 
-COPY nginx/nginx.conf /etc/nginx/nginx.conf
+COPY nginx.conf /etc/nginx/nginx.conf
 
 RUN mkdir -p /run/nginx
 
