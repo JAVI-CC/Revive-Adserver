@@ -5,7 +5,7 @@ Docker image Revive Adserver 5.2
 
 <h3>Setup</h3>
 <pre><code>git clone https://github.com/JAVI-CC/Revive-Adserver.git
-cd revive-adserver
+cd Revive-Adserver
 docker-compose up -d</code></pre>
 <br><br>
 <p> Once you have the containers deployed, you can access  <a href="http://localhost:8080" target="_blank">http://localhost:8080</a></p>
